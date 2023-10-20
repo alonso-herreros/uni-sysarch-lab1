@@ -9,11 +9,11 @@
 | Alonso Herreros Copete | 100493990 | `main` |
 
 ## Compilation & execution
-To compile and execute a problem's code, you may use these commands inside the ProblemN folder (not from the src folder):
+To compile and execute a problem's code, you may use these commands inside the repo (not from the src folder) with the relevant filename:
 ```bash
-gcc ./src/*.c -o ./bin/main -g -Wall
-chmod o+rx ./bin/main
-./bin/main
+gcc ./src/[filename].c -o ./bin/[filename] -g -Wall
+chmod o+rx ./bin/[filename]
+./bin/[filename]
 ```
 
 ## Completion Summary
