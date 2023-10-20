@@ -20,6 +20,6 @@ chmod o+rx ./bin/[filename]
 
 | Exercise | Status |
 | --- | --- |
-| Exercise 1 | Untested |
-| Exercise 2 | Untested |
+| Exercise 1 | Done |
+| Exercise 2 | Done |
 | Exercise 3 | Untested |
