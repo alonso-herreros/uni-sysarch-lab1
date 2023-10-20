@@ -22,4 +22,4 @@ chmod o+rx ./bin/[filename]
 | --- | --- |
 | Exercise 1 | Done |
 | Exercise 2 | Done |
-| Exercise 3 | Untested |
+| Exercise 3 | Done |
